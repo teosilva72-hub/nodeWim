@@ -1,0 +1,17 @@
+{
+    "name": "servicenode",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon app.js"
+    },
+    "author": "Mateus Silva .´.",
+    "license": "ISC",
+    "dependencies": {
+        "mysql": "^2.18.1",
+        "mysql2": "^2.3.3",
+        "nodemon": "^2.0.16"
+    }
+}
